@@ -1,4 +1,4 @@
-ANTHROPOTROPE 
+Make your own ANTHROPOTROPE 
 =============
 LED POV POLE
 
