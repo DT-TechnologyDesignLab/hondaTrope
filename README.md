@@ -1,5 +1,6 @@
-ANTHROPOTROPE LED POV POLE
+ANTHROPOTROPE 
 =============
+LED POV POLE
 
 In Jan 2013 DT and Honda created the HondaTrope for the Sydney Festival - a full colour, volumetric, real time POV display using Teensy3's, FastSPI and 5V LPD8806 RGB LED strips.
 
